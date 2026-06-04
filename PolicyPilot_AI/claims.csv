@@ -1,0 +1,13 @@
+claim_id,policy_number,customer_name,claim_amount,hospital_name,incident_date,claim_description,status,fraud_score,risk_level,submitted_by,submitted_date,document_path
+CLM001,POL-2024-001,Rajesh Kumar,45000.0,Apollo Hospital,2024-01-15,Accident injury treatment and hospitalization,Approved,12.5,Low,agent1,2024-01-20,
+CLM002,POL-2024-002,Priya Sharma,125000.0,Fortis Hospital,2024-01-18,Major surgery for appendicitis,Pending,45.2,Medium,agent1,2024-01-22,
+CLM003,POL-2024-003,Amit Verma,890000.0,Max Hospital,2024-01-10,Cancer treatment chemotherapy,Fraudulent,89.7,High,agent2,2024-01-15,
+CLM004,POL-2024-004,Sunita Patel,32000.0,City Clinic,2024-01-25,Fracture treatment and physiotherapy,Approved,8.3,Low,agent2,2024-01-28,
+CLM005,POL-2024-005,Vikram Singh,210000.0,AIIMS,2024-02-01,Heart bypass surgery,Pending,55.8,Medium,agent1,2024-02-05,
+CLM006,POL-2024-006,Meera Nair,75000.0,Care Hospital,2024-02-03,Kidney stone surgery,Approved,22.1,Low,agent2,2024-02-07,
+CLM007,POL-2024-007,Ravi Chandran,500000.0,Private Clinic,2024-02-08,Multiple injuries claim,Suspicious,76.4,High,agent1,2024-02-10,
+CLM008,POL-2024-008,Deepa Menon,18000.0,District Hospital,2024-02-12,Fever and general illness,Approved,5.2,Low,agent2,2024-02-14,
+CLM009,POL-2024-009,Karan Mehta,340000.0,Unknown Hospital,2024-02-15,Accident with multiple fractures,Suspicious,68.9,High,agent1,2024-02-18,
+CLM010,POL-2024-010,Anita Reddy,92000.0,Columbia Asia,2024-02-20,Maternity and delivery charges,Pending,31.5,Medium,agent2,2024-02-22,
+CLM0013,POL-2024-006,Meera Nair,75000.0,Care Hospital,2024-02-03,Kidney stone surgery,Pending,0.0,Unknown,admin,2026-06-03,
+CLM0015,POL-2024-006,Meera Nair,50000.0,Care Hospital,2026-06-03,Kidney problem,Pending,0.0,Unknown,admin,2026-06-03,

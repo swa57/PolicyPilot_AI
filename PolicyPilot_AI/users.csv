@@ -1,0 +1,4 @@
+username,password,role,full_name,email
+admin,admin123,admin,Administrator,admin@policypilot.com
+agent1,agent123,agent,John Agent,john@policypilot.com
+agent2,pass456,agent,Sarah Smith,sarah@policypilot.com
