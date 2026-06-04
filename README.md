@@ -205,4 +205,16 @@ streamlit run app.py --server.port 8502
 ## Live Demo link
 https://policypilotai-fb7qzkh8a2br7wyfigrbxp.streamlit.app/
 
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Machine Learning](https://img.shields.io/badge/ML-FraudDetection-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-pink)
+## Author
+
+Swathi K
+
+---
+
+## License
+
+This project is intended for educational, learning, and portfolio demonstration purposes.
 *Built with ❤️ for Insurance AI Innovation*
